@@ -1,5 +1,10 @@
 ---
 title: Attack on PUF
+tags:
+- ml
+- embed
+- sec
+- crypt
 date: 2021-03-15T08:24:17.138Z
 summary: >-
   <!--StartFragment-->
