@@ -26,9 +26,9 @@ summary: >-
   **Improvements:**
 
 
-  * item Improved the tree construction process, so it could generate more balanced index trees which could improve accuracy. 
+  * Improved the tree construction process, so it could generate more balanced index trees which could improve accuracy. 
 
-  * item Improved the retrieval process, so it would choose fewer leaf nodes and achieve better efficiency.
+  * Improved the retrieval process, so it would choose fewer leaf nodes and achieve better efficiency.
 
 
   <!--EndFragment-->
