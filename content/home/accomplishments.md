@@ -26,7 +26,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2019-12-01"
-  description: ""
+  description: "2/62"
   organization: Hunan University
   organization_url: 
   title: First class scholarship
@@ -34,7 +34,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2019-09-01"
-  description: (6/62)
+  description: "6/62"
   organization: Hunan University
   organization_url: 
   title: Postgraduate recommendation 
