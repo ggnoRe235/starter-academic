@@ -1,5 +1,8 @@
 ---
 title: DNS attack simulation
+tags:
+- net
+- sec
 date: 2021-03-15T08:29:58.860Z
 summary: >-
   <!--StartFragment-->
