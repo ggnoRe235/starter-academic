@@ -35,6 +35,8 @@ summary: >-
 draft: false
 featured: false
 tags:
+  - ml
+  - sec
   - crypt
 external_link: "404"
 links: []
