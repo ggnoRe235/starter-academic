@@ -9,36 +9,35 @@ summary: >-
 
 
   <!--EndFragment-->
+
+
+  <!--StartFragment-->
+
+
+  **Feb. 2020 - June 2020**
+
+
+  **Brief introduction of system:**
+
+
+  This system used CNN and PCA-ITQ to process original pictures and exported their features as short binary strings which cloud represent original features. Then the system would use random matrix to encrypt user request and index tree, use chaos scrambling to encrypt images so the cloud server couldn't analyse user requests, retrival process and statistical law, hence it could protect user privacy.
+
+
+  **Improvements:**
+
+
+  * item Improved the tree construction process, so it could generate more balanced index trees which could improve accuracy. 
+
+  * item Improved the retrieval process, so it would choose fewer leaf nodes and achieve better efficiency.
+
+
+  <!--EndFragment-->
 draft: false
 featured: false
-external_link: kj
+external_link: "404"
 links: []
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-<!--StartFragment-->
-
-
-
-**Feb. 2020 - June 2020**
-
-
-
-**Brief introduction of system:**
-
-
-
-This system used CNN and PCA-ITQ to process original pictures and exported their features as short binary strings which cloud represent original features. Then the system would use random matrix to encrypt user request and index tree, use chaos scrambling to encrypt images so the cloud server couldn't analyse user requests, retrival process and statistical law, hence it could protect user privacy.
-
-
-
-**Improvements:**
-
-* item Improved the tree construction process, so it could generate more balanced index trees which could improve accuracy. 
-* item Improved the retrieval process, so it would choose fewer leaf nodes and achieve better efficiency.
-
-    
-
-<!--EndFragment-->
