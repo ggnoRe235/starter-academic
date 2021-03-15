@@ -13,9 +13,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%E4%B8%9A%E9%B9%8F-%E6%BD%98-655aa81b5
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+organizations: []
 education:
   courses:
     - course: MSc in Information Security
