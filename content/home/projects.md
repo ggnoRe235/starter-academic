@@ -37,6 +37,8 @@ content:
     tag: sec
   - name: Other
     tag: o
+  - name: Machine learning
+    tag: ml
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
