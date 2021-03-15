@@ -27,11 +27,7 @@ feature:
 - description: 
   icon:
   icon_pack: 
-  name: Python
-- description:
-  icon:
-  icon_pack:
-  name: Go
+  name: Python & Go
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
