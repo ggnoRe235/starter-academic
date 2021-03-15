@@ -1,5 +1,5 @@
 ---
-title: Yepeng Pan test
+title: Yepeng Pan
 role: ""
 bio: ""
 interests: []
