@@ -14,6 +14,9 @@ summary: >-
   <!--EndFragment-->
 draft: false
 featured: false
+tags:
+  - sec
+  - crypt
 external_link: "404"
 image:
   filename: featured
