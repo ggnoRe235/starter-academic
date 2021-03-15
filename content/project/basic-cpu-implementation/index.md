@@ -1,5 +1,7 @@
 ---
 title: Basic CPU implementation
+tags:
+- embed
 date: 2021-03-15T08:38:40.728Z
 summary: >-
   <!--StartFragment-->
