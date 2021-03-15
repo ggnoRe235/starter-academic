@@ -5,16 +5,10 @@ summary: >-
   <!--StartFragment-->
 
 
-  Followed and improved a recent research about encrypted image retrival system working on the cloud that could preserve user privacy.
-
-
-  <!--EndFragment-->
-
-
-  <!--StartFragment-->
-
-
   **Feb. 2020 - June 2020**
+
+
+  Followed and improved a recent research about encrypted image retrival system working on the cloud that could preserve user privacy.
 
 
   **Brief introduction of system:**
