@@ -10,9 +10,18 @@ main:
   - name: Research Experience
     url: '#projects'
     weight: 20
+  - name: Work Experience
+    url: '#experience'
+    weight: 30
+  - name: Award
+    url: '#accomplishment'
+    weight: 40
+  - name: skill
+    url: '#skill'
+    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 30
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
