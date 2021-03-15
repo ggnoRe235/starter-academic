@@ -27,10 +27,16 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Cryptography
+    tag: crypt
+  - name: Embedded system
+    tag: embed
+  - name: Network
+    tag: net
+  - name: Information security
+    tag: sec
   - name: Other
-    tag: Demo
+    tag: o
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
