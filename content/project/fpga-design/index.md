@@ -14,6 +14,8 @@ summary: >-
   <!--EndFragment-->
 draft: false
 featured: false
+tags:
+  - embed
 external_link: "404"
 image:
   filename: featured
