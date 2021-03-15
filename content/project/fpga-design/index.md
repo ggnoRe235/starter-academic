@@ -11,6 +11,18 @@ summary: >-
   Implemented a series of functions with different sensors, buttons and LED display.
 
 
+  **Implemented function list:**
+
+
+  * Reversing radar (using ultrasonic sensor)
+
+  * IR remote control
+
+  * Coded lock
+
+  * Detector with optical sensor and thermal sensor
+
+
   <!--EndFragment-->
 draft: false
 featured: false
@@ -22,13 +34,3 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<!--StartFragment-->
-
-**Implemented function list:**
-
-* Reversing radar (using ultrasonic sensor)
-* IR remote control
-* Coded lock
-* Detector with optical sensor and thermal sensor
-
-<!--EndFragment-->
