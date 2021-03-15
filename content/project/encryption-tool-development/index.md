@@ -11,6 +11,20 @@ summary: >-
   This project implemented an encryption tool including a series of encryption algorithms, basic key exchange function and signature function.
 
 
+  **Implemented algorithms:**
+
+
+  * Symmetric encryption: DES, AES
+
+  * Stream cipher: RC4
+
+  * Asymmetric encryption: RSA  
+
+  * Hash: SHA-1, MD5
+
+  * Key exchange: DH    
+
+
   <!--EndFragment-->
 draft: false
 featured: false
@@ -23,14 +37,3 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<!--StartFragment-->
-
-**Implemented algorithms:**
-
-* Symmetric encryption: DES, AES
-* Stream cipher: RC4
-* Asymmetric encryption: RSA  
-* Hash: SHA-1, MD5
-* Key exchange: DH    
-
-<!--EndFragment-->
