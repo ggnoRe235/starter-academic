@@ -34,6 +34,8 @@ summary: >-
   <!--EndFragment-->
 draft: false
 featured: false
+tags:
+  - crypt
 external_link: "404"
 links: []
 image:
