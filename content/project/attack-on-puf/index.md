@@ -25,3 +25,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+this is a small test
