@@ -19,10 +19,8 @@ tags:
   - embed
   - sec
   - crypt
-external_link: "404"
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-this is a small test
