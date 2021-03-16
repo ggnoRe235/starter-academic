@@ -32,10 +32,26 @@ tags:
   - ml
   - sec
   - crypt
-external_link: "404"
 links: []
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+
+  **Feb. 2020 - June 2020**
+  Followed and improved a recent research about encrypted image retrival system working on the cloud that could preserve user privacy.
+
+
+  **Brief introduction of system:**
+
+
+  This system used CNN and PCA-ITQ to process original pictures and exported their features as short binary strings which cloud represent original features. Then the system would use random matrix to encrypt user request and index tree, use chaos scrambling to encrypt images so the cloud server couldn't analyse user requests, retrival process and statistical law, hence it could protect user privacy.
+
+
+  **Improvements:**
+
+
+  * Improved the tree construction process, so it could generate more balanced index trees which could improve accuracy. 
+
+  * Improved the retrieval process, so it would choose fewer leaf nodes and achieve better efficiency.
