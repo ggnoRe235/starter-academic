@@ -24,3 +24,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+PUF(physical unclonable function) is a kind of security chip that could generate unclonable output by using process variation. This projet used different machine learning models(LR, SVM, CMA-ES) to predict the output of PUF and get approximate result.
