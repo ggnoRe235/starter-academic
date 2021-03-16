@@ -20,9 +20,17 @@ featured: false
 tags:
   - sec
   - net
-external_link: "404"
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+  **Apr. 2019 - May. 2019**
+
+  Analysed suspicious traffic of common attacks and found out their features.
+
+  **Suspicious Traffic Analysed:**
+
+  * Traffic of DNS amplification attack
+  * Traffic of SYN flood attack
+  * Traffic of slow Dos attack
