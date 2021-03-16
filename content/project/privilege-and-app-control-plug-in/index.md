@@ -16,9 +16,13 @@ draft: false
 featured: false
 tags:
   - sec
-external_link: "404"
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+
+  **Sep. 2018 - Nov. 2018**
+
+
+  Implemented a plug-in of Xposed framework which could monitor all applications and control their behaviors. This plug-in could monitor/audit/block sensitive api calls related to user privacy by hooking all these apis. Blacklist and whitelist were also involved in this plug-in to help manage applications.
