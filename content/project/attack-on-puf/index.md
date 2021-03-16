@@ -1,11 +1,6 @@
 ---
 title: Attack on PUF
-tags:
-- ml
-- embed
-- sec
-- crypt
-date: 2021-03-15T08:24:17.138Z
+date: 2021-03-07T08:24:17.138Z
 summary: >-
   <!--StartFragment-->
 
@@ -19,6 +14,11 @@ summary: >-
   <!--EndFragment-->
 draft: false
 featured: false
+tags:
+  - ml
+  - embed
+  - sec
+  - crypt
 external_link: "404"
 image:
   filename: featured
