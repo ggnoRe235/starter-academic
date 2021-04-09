@@ -6,8 +6,8 @@ interests:
   - Network & Network security
   - Cloud security & Edge Computing security
   - IoT security
-  - Cryptography
-  - Blockchain & Applied Cryptography
+  - Cryptography & Applied Cryptography
+  - Blockchain
 social:
   - icon: envelope
     icon_pack: fas
