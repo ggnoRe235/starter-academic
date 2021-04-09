@@ -1,5 +1,5 @@
 ---
-title: Layer 3 Switch design
+title: Layer 3 switch design
 date: 2021-03-06T08:28:03.647Z
 summary: >-
   <!--StartFragment-->
@@ -18,6 +18,7 @@ tags:
   - embed
   - sec
   - net
+external_link: a
 image:
   filename: featured
   focal_point: Smart
