@@ -4,9 +4,10 @@ role: ""
 bio: ""
 interests:
   - Network & Network security
-  - Embedded system security
+  - IoT security
   - Cloud security & Edge Computing security
-  - Cryptography, Blockchain & Applied Cryptography
+  - Cryptography
+  - Blockchain & Applied Cryptography
 social:
   - icon: envelope
     icon_pack: fas
