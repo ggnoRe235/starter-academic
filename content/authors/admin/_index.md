@@ -4,8 +4,8 @@ role: ""
 bio: ""
 interests:
   - Network & Network security
-  - IoT security
   - Cloud security & Edge Computing security
+  - IoT security
   - Cryptography
   - Blockchain & Applied Cryptography
 social:
