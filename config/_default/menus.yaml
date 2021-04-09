@@ -23,5 +23,5 @@ main:
     url: '#about'
     weight: 60
   - name: CV
-    url: uploads/resume.pdf
+    url: uploads/Yepeng Pan - CV.pdf
     weight: 70
