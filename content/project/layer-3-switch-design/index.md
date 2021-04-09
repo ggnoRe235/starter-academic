@@ -18,7 +18,6 @@ tags:
   - embed
   - sec
   - net
-external_link: a
 image:
   filename: featured
   focal_point: Smart
