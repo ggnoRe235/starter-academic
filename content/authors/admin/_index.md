@@ -2,15 +2,15 @@
 title: Yepeng Pan
 role: ""
 bio: ""
-interests: 
-- Network & Network security
-- Embedded system security
-- Cloud security & Edge Computing security
-- Cryptography, Blockchain & Applied Cryptography
+interests:
+  - Network & Network security
+  - Embedded system security
+  - Cloud security & Edge Computing security
+  - Cryptography, Blockchain & Applied Cryptography
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:panyepeng@gmail.com"
+    link: mailto:panyepeng@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Meui19238075?s=09
@@ -19,7 +19,7 @@ social:
     link: https://www.linkedin.com/in/%E4%B8%9A%E9%B9%8F-%E6%BD%98-655aa81b5
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Yepeng Pan - CV.pdf
 organizations: []
 education:
   courses:
