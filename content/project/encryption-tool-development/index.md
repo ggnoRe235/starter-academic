@@ -31,7 +31,6 @@ featured: false
 tags:
   - sec
   - crypt
-external_link: a
 image:
   filename: featured
   focal_point: Smart
