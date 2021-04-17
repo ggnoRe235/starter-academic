@@ -8,7 +8,7 @@ summary: >-
   **Mar. 2019 - Apr. 2019**
 
 
-  Implemented a switch with basic traffic forwarding function and ARP table updating function with Verilog. By evaluating the traffic (frequency and quantity of ARP packets, conflicts with original arp table) the switch could also detect potential ARP attacks
+  Effectuated a switch with basic traffic forwarding function and ARP table updating function with Verilog. By evaluating the traffic (frequency and quantity of ARP packets, conflicts with original arp table) the switch could also detect potential ARP attacks
 
 
   <!--EndFragment-->
@@ -18,15 +18,13 @@ tags:
   - embed
   - sec
   - net
+external_link: a
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
   alt_text: ""
 ---
-
   **Mar. 2019 - Apr. 2019**
 
-
-  Implemented a switch with basic traffic forwarding function and ARP table updating function with Verilog. By evaluating the traffic (frequency and quantity of ARP packets, conflicts with original arp table) the switch could also detect potential ARP attacks
-
+  Effectuated a switch with basic traffic forwarding function and ARP table updating function with Verilog. By evaluating the traffic (frequency and quantity of ARP packets, conflicts with original arp table) the switch could also detect potential ARP attacks
