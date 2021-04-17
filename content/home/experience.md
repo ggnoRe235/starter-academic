@@ -22,20 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Internship
+  - title: Internship(Information Security R&D Engineer)
     company: NIO Inc
     company_url: ''
     location: Shanghai China
     date_start: '2020-11-01'
     date_end: '2021-04-02'
     description: |2-
-        Responsibilities:
+        * Managed security devices (including the management of DLP, firewall, fortress machine, etc.);
+        * Developed terminal management application;
+        * Developed automation scripts;
         
-        * Information security management (Including the management of DLP, Firewall, fortress machine, etc.)
-        * Terminal management application development
-        * Automation scripts development
-        
-  - title: Internship
+  - title: Internship(Information Security R&D Engineer)
     company: Heetian Ltd
     company_url: ''
     location: Changsha China
