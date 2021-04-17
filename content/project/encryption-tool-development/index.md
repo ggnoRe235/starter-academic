@@ -8,7 +8,7 @@ summary: >-
   **Oct. 2018 - Dec. 2018**
 
 
-  This project implemented an encryption tool including a series of encryption algorithms, basic key exchange function and signature function.
+  This project implemented an encryption tool with a series of encryption algorithms, basic key exchange function and signature function.
 
 
   **Implemented algorithms:**
@@ -31,6 +31,7 @@ featured: false
 tags:
   - sec
   - crypt
+external_link: a
 image:
   filename: featured
   focal_point: Smart
@@ -38,19 +39,12 @@ image:
 ---
   **Oct. 2018 - Dec. 2018**
 
-
-  This project implemented an encryption tool including a series of encryption algorithms, basic key exchange function and signature function.
-
+  This project implemented an encryption tool with a series of encryption algorithms, basic key exchange function and signature function.
 
   **Implemented algorithms:**
 
-
-  * Symmetric encryption: DES, AES
-
-  * Stream cipher: RC4
-
-  * Asymmetric encryption: RSA  
-
-  * Hash: SHA-1, MD5
-
-  * Key exchange: DH    
+* Symmetric encryption: DES, AES
+* Stream cipher: RC4
+* Asymmetric encryption: RSA  
+* Hash: SHA-1, MD5
+* Key exchange: DH
