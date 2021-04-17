@@ -23,7 +23,6 @@ tags:
   - ml
   - sec
   - crypt
-external_link: a
 links: []
 image:
   filename: featured
