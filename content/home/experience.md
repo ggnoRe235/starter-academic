@@ -42,7 +42,7 @@ experience:
     description: |2-
         Implemented three online courses on the Heetian lab platform:
         
-        * Basic web security problems (XSS, CSRF, SQL injection and click hijack)
-        * Basic reverse analysis (Stack overflow vulnerabilities and existing solutions)
-        * C++ vulnerabilities analysis (Virtual function vulnerability, Heap vulnerabilities, Vulnerable functions)
+        * Basic web security problems (XSS, CSRF, SQL injection and click hijack);
+        * Basic reverse analysis (Stack overflow vulnerabilities and existing solutions);
+        * C++ vulnerabilities analysis (Virtual function vulnerability, Heap vulnerabilities, Vulnerable functions);
 ---
