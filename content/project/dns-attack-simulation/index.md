@@ -8,7 +8,7 @@ summary: >-
   **Feb. 2019 - Mar. 2019**
 
 
-  Simulated different methods of DNS attacks and evaluted ways to detect these attacks
+  Simulated different methods of DNS attacks and evaluated approaches detecting these attacks.
 
 
   **Attack Analysed:**
@@ -27,23 +27,18 @@ featured: false
 tags:
   - net
   - sec
+external_link: a
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-
   **Feb. 2019 - Mar. 2019**
 
-
-  Simulated different methods of DNS attacks and evaluted ways to detect these attacks
-
+  Simulated different methods of DNS attacks and evaluated approaches detecting these attacks.
 
   **Attack Analysed:**
 
-
-  * local DNS cache poison
-
-  * DNS server cache poison
-
-  * DNS hijack based on arp spoofing 
+* local DNS cache poison
+* DNS server cache poison
+* DNS hijack based on arp spoofing
