@@ -14,7 +14,7 @@ summary: >-
   **Attack Analysed:**
 
 
-  * local DNS cache poison
+  * Local DNS cache poison
 
   * DNS server cache poison
 
@@ -27,6 +27,7 @@ featured: false
 tags:
   - net
   - sec
+external_link: a
 image:
   filename: featured
   focal_point: Smart
@@ -38,6 +39,6 @@ image:
 
   **Attack Analysed:**
 
-* local DNS cache poison
+* Local DNS cache poison
 * DNS server cache poison
 * DNS hijack based on arp spoofing
