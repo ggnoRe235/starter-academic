@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:yepeng.pan.19@ucl.ac.uk
+    link: mailto:panyepeng@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Meui19238075?s=09
