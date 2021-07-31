@@ -2,27 +2,32 @@
 title: Privacy preserving cloud image retrival system
 date: 2021-03-09T06:55:41.731Z
 summary: >-2
-  
-
     **Feb. 2020 - June 2020**
 
-  Followed up and improved a recent research about encrypted image retrival system working on the cloud that could preserve user privacy.
+  Followed up and improved a recent research about encrypted image retrieval system working on the cloud that could preserve user privacy.
 
     **Brief introduction of system:**
 
-  This system used CNN and PCA-ITQ to process original pictures and exported their features as short binary strings representing original features, after which the system would use random matrix to encrypt user requests and index tree as well as use chaos scrambling to encrypt images so that the cloud server couldn’t analyze user requests, retrieval process and statistical law, and as such user privacy could be protected.
+  * This system aims to solve the problem that cloud image retrieval system could analyse user’s requests and damage user privacy.
 
-    **Improvements:**
+  * This system uses compressed binary CNN fully connected layer outputs to represent image features, and uses the distance among image features as the classification basis to generate a tree for retrieval. By encrypting the tree and user’s requests with random matrix, cloud server can only use encrypted features to calculate distance between user’s request and tree nodes, and thus the system can preserve user privacy.
 
-  * Improved the tree construction process, so it could generate more balanced index trees which could improve accuracy. 
+    **Completed improvements:**
 
-  * Improved the retrieval process, so it would choose fewer leaf nodes and become more efficient.
+  * Because the original system’s tree generation process only merging nodes with high similarity, it may generate an unbalanced binary tree with large depth, and it will leads to low accuracy since the features of nodes with small depth in the tree will become fuzzy. By involving new threshold and check process, the system will get a chance to merge nodes with low similarity at the right time. Experiments show that the accuracy of the modified system is 8% higher than that of the original system on average, and modified system performs even better when more categories of pictures are used.
+
+  * The original system’s retrieval process will only pick one node which has the smallest distance with user’s request at each level, so the original system doesn’t perform well when there are similar nodes at the same level. By involving more (Experiments shows that the maximum of 3 nodes perform best) similar nodes into consideration, modified system could reach higher accuracy.
+
+   ** Further improvements:**
+
+  * It is inevitable that the features of nodes will become more fuzzy during the tree generation process, and it will even getting worse if there are more categories of images involved, so that using tags during the tree generation process may achieve higher accuracy and it can also simplify the retrieval process.
 draft: false
 featured: false
 tags:
   - ml
   - sec
   - crypt
+external_link: a
 links: []
 image:
   filename: featured
@@ -31,13 +36,18 @@ image:
 ---
   **Feb. 2020 - June 2020**
 
-Followed up and improved a recent research about encrypted image retrival system working on the cloud that could preserve user privacy.
+Followed up and improved a recent research about encrypted image retrieval system working on the cloud that could preserve user privacy.
 
   **Brief introduction of system:**
 
-This system used CNN and PCA-ITQ to process original pictures and exported their features as short binary strings representing original features, after which the system would use random matrix to encrypt user requests and index tree as well as use chaos scrambling to encrypt images so that the cloud server couldn’t analyze user requests, retrieval process and statistical law, and as such user privacy could be protected.
+* This system aims to solve the problem that cloud image retrieval system could analyse user’s requests and damage user privacy.
+* This system uses compressed binary CNN fully connected layer outputs to represent image features, and uses the distance among image features as the classification basis to generate a tree for retrieval. By encrypting the tree and user’s requests with random matrix, cloud server can only use encrypted features to calculate distance between user’s request and tree nodes, and thus the system can preserve user privacy.
 
-  **Improvements:**
+  **Completed improvements:**
 
-* Improved the tree construction process, so it could generate more balanced index trees which could improve accuracy. 
-* Improved the retrieval process, so it would choose fewer leaf nodes and become more efficient.
+* Because the original system’s tree generation process only merging nodes with high similarity, it may generate an unbalanced binary tree with large depth, and it will leads to low accuracy since the features of nodes with small depth in the tree will become fuzzy. By involving new threshold and check process, the system will get a chance to merge nodes with low similarity at the right time. Experiments show that the accuracy of the modified system is 8% higher than that of the original system on average, and modified system performs even better when more categories of pictures are used.
+* The original system’s retrieval process will only pick one node which has the smallest distance with user’s request at each level, so the original system doesn’t perform well when there are similar nodes at the same level. By involving more (Experiments shows that the maximum of 3 nodes perform best) similar nodes into consideration, modified system could reach higher accuracy.
+
+ ** Further improvements:**
+
+* It is inevitable that the features of nodes will become more fuzzy during the tree generation process, and it will even getting worse if there are more categories of images involved, so that using tags during the tree generation process may achieve higher accuracy and it can also simplify the retrieval process.
