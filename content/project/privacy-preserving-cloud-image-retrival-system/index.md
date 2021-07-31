@@ -2,7 +2,7 @@
 title: Privacy preserving cloud image retrival system
 date: 2021-03-09T06:55:41.731Z
 summary: >-2
-    **Feb. 2020 - June 2020**
+    **Feb. 2020 - June. 2020**
 
   Followed up and improved a recent research about encrypted image retrieval system working on the cloud that could preserve user privacy.
 
@@ -37,7 +37,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-  **Feb. 2020 - June 2020**
+  **Feb. 2020 - June. 2020**
 
 Followed up and improved a recent research about encrypted image retrieval system working on the cloud that could preserve user privacy.
 
