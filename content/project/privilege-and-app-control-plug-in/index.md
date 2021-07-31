@@ -8,7 +8,7 @@ summary: >-
   **Sep. 2018 - Nov. 2018**
 
 
-  Implemented a plug-in of Xposed framework which could monitor all applications and control their behaviors. This plug-in could monitor/audit/block sensitive api calls related to user privacy by hooking all these apis. Blacklist and whitelist were also involved in this plug-in to help manage applications.
+  Implemented a plug-in of Xposed framework which could monitor all applications and control their behaviors. This plug-in could monitor/audit/block sensitive API calls related to user privacy by hooking all these APIs. Blacklist and whitelist were also involved in this plug-in to help manage applications.
 
 
   <!--EndFragment-->
@@ -16,13 +16,13 @@ draft: false
 featured: false
 tags:
   - sec
+  - trust
+external_link: a
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-
   **Sep. 2018 - Nov. 2018**
 
-
-  Implemented a plug-in of Xposed framework which could monitor all applications and control their behaviors. This plug-in could monitor/audit/block sensitive api calls related to user privacy by hooking all these apis. Blacklist and whitelist were also involved in this plug-in to help manage applications.
+  Implemented a plug-in of Xposed framework which could monitor all applications and control their behaviors. This plug-in could monitor/audit/block sensitive API calls related to user privacy by hooking all these APIs. Blacklist and whitelist were also involved in this plug-in to help manage applications.
