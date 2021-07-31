@@ -3,11 +3,10 @@ title: Yepeng Pan
 role: ""
 bio: ""
 interests:
-  - Network & Network security
-  - Cloud security & Edge Computing security
-  - IoT security
-  - Cryptography & Applied Cryptography
+  - Cryptography
   - Blockchain
+  - Access Control
+  - Privacy Enhancing Technology
 social:
   - icon: envelope
     icon_pack: fas
