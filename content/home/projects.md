@@ -29,16 +29,19 @@ content:
     tag: '*'
   - name: Cryptography
     tag: crypt
-  - name: Embedded system
-    tag: embed
   - name: Network
     tag: net
+  - name: Trustworthy
+    tag: trust
+  - name: Embedded system
+    tag: embed
   - name: Information security
     tag: sec
-  - name: Other
-    tag: o
   - name: Machine learning
     tag: ml
+  - name: Other
+    tag: o
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
