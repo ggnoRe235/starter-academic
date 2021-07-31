@@ -2,7 +2,7 @@
 title: Basic CPU implementation
 date: 2021-03-01T08:38:40.728Z
 summary: >-2
-    **Dec.2017 - Jan.2018**
+    **Dec. 2017 - Jan. 2018**
 
     Implemented a basic CPU with VHDL that could execute a series of instructions stored in the memory.
 
@@ -28,7 +28,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-  **Dec.2017 - Jan.2018**
+  **Dec. 2017 - Jan. 2018**
 
   Implemented a basic CPU with VHDL that could execute a series of instructions stored in the memory.
 
