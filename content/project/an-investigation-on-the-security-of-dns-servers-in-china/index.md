@@ -21,6 +21,9 @@ summary: >-2
   * When user assign ”8.8.8.8” as its DNS server and request domain names of google, ISPs will analyse user’s requests and reply a false IP before the real DNS server
 draft: false
 featured: false
+tags:
+  - sec
+  - net
 external_link: a
 image:
   filename: featured
