@@ -5,7 +5,7 @@ summary: >-
   <!--StartFragment-->
 
 
-  **June 2018 - Aug. 2018**
+  **June. 2018 - Aug. 2018**
 
 
   Implemented a series of functions with different sensors, buttons and LED display.
@@ -34,7 +34,7 @@ image:
   preview_only: false
 ---
 
-  **June 2018 - Aug. 2018**
+  **June. 2018 - Aug. 2018**
 
 
   Implemented a series of functions with different sensors, buttons and LED display.
