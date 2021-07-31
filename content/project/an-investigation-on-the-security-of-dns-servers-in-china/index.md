@@ -29,7 +29,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-  **Feb. 2020 - June 2020**
+  **Apr. 2019 - May. 2019**
 
 Analysed 500 DNS servers’ responses towards 20 different domain names with traceroute, nslookup and wireshark.
 
