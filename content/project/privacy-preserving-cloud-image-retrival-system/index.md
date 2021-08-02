@@ -18,7 +18,7 @@ summary: >-2
 
   * Because the original system’s tree generation process only merging nodes with high similarity, it may generate an unbalanced binary tree with large depth, and it will leads to low accuracy since the features of nodes with small depth in the tree will become fuzzy. By involving new threshold and check process, the system will get a chance to merge nodes with low similarity at the right time. Experiments show that the accuracy of the modified system is 8% higher than that of the original system on average, and modified system performs even better when more categories of pictures are used.
 
-  * The original system’s retrieval process will only pick one node which has the smallest distance with user’s request at each level, so the original system doesn’t perform well when there are similar nodes at the same level. By involving more (Experiments shows that the maximum of 3 nodes perform best) similar nodes into consideration, modified system could reach higher accuracy.
+  * The original system’s retrieval process will only pick one node which has the smallest distance with user’s request at each level, so the original system doesn’t perform well when there are similar nodes at the same level. By involving more (Experiments shows that the maximum of 3 nodes perform the best) similar nodes into consideration, modified system could reach higher accuracy.
 
 
   **Further improvements:**
@@ -49,7 +49,7 @@ Followed up and improved a recent research about encrypted image retri
 **Completed improvements:**
 
 * Because the original system’s tree generation process only merging nodes with high similarity, it may generate an unbalanced binary tree with large depth, and it will leads to low accuracy since the features of nodes with small depth in the tree will become fuzzy. By involving new threshold and check process, the system will get a chance to merge nodes with low similarity at the right time. Experiments show that the accuracy of the modified system is 8% higher than that of the original system on average, and modified system performs even better when more categories of pictures are used.
-* The original system’s retrieval process will only pick one node which has the smallest distance with user’s request at each level, so the original system doesn’t perform well when there are similar nodes at the same level. By involving more (Experiments shows that the maximum of 3 nodes perform best) similar nodes into consideration, modified system could reach higher accuracy.
+* The original system’s retrieval process will only pick one node which has the smallest distance with user’s request at each level, so the original system doesn’t perform well when there are similar nodes at the same level. By involving more (Experiments shows that the maximum of 3 nodes perform the best) similar nodes into consideration, modified system could reach higher accuracy.
 
 **Further improvements:**
 
