@@ -16,9 +16,9 @@ summary: >-2
 
   * Different ISPs in China have different strategies toward inexistent domain names. DNS server provided by China Mobile will direct user to its ads page if requested domain name doesn’t exist while other ISPs won’t.
 
-  * DNS servers provided by university can resolve all domain names correctly, while all DNS servers provided by ISPs will give false replies toward domain names of google.
+  * A small amount(3 out of 28) of DNS servers provided by China railway telcom and DNS servers provided by Hunan university can resolve all domain names correctly, while all DNS servers provided by other ISPs will give false replies toward domain names of google.
 
-  * When user assign ”8.8.8.8” as its DNS server and request domain names of google, ISPs will analyse user’s requests and reply a false IP before the real DNS server
+  * When users assign ”8.8.8.8” as their DNS server and query domain names of google, ISPs will analyse their requests and reply a false IP before the real DNS server
 draft: false
 featured: false
 tags:
@@ -40,5 +40,5 @@ Analysed 500 DNS servers’ responses towards 20 different domain names with tra
 **Conclusion:**
 
 * Different ISPs in China have different strategies toward inexistent domain names. DNS server provided by China Mobile will direct user to its ads page if requested domain name doesn’t exist while other ISPs won’t.
-* DNS servers provided by university can resolve all domain names correctly, while all DNS servers provided by ISPs will give false replies toward domain names of google.
-* When user assign ”8.8.8.8” as its DNS server and request domain names of google, ISPs will analyse user’s requests and reply a false IP before the real DNS server
+* A small amount(3 out of 28) of DNS servers provided by China railway telcom and DNS servers provided by Hunan university can resolve all domain names correctly, while all DNS servers provided by other ISPs will give false replies toward domain names of google.
+* When users assign ”8.8.8.8” as their DNS server and query domain names of google, ISPs will analyse their requests and reply a false IP before the real DNS server
