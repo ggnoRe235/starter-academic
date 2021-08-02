@@ -16,7 +16,7 @@ summary: >-2
   **Completed improvements:**
 
 
-  * Because the original system’s tree generation process only merging nodes with high similarity, it may generate an unbalanced binary tree with large depth, and it will leads to low accuracy since the features of nodes with small depth in the tree will become fuzzy. By involving new threshold and check process, the system will get a chance to merge nodes with low similarity at the right time. Experiments show that the accuracy of the modified system is 8% higher than that of the original system on average, and modified system performs even better when more categories of pictures are used.
+  * Because the original system’s tree generation process only merging nodes with high similarity, it may generate an unbalanced binary tree with large depth, and it will leads to low accuracy since the features of nodes with small depth in the tree will become fuzzy. By involving new threshold and check process, the system will get a chance to merge nodes with low similarity at the right time. Experiments show that the accuracy of the modified system is 8% higher than that of the original system on average, and when more categories of images are used, the accuracy gap between the modified system and the original system is more obvious. 
 
   * The original system’s retrieval process will only pick one node which has the smallest distance with user’s request at each level, so the original system doesn’t perform well when there are similar nodes at the same level. By involving more (Experiments shows that the maximum of 3 nodes perform the best) similar nodes into consideration, modified system could reach higher accuracy.
 
@@ -24,7 +24,7 @@ summary: >-2
   **Further improvements:**
 
 
-  * It is inevitable that the features of nodes will become more fuzzy during the tree generation process, and it will even getting worse if there are more categories of images involved, so that using tags during the tree generation process may achieve higher accuracy and it can also simplify the retrieval process.
+  * It is inevitable that the features of nodes will become more fuzzy during the tree generation process, and it will get worse if there are more categories of images involved, so that using tags during the tree generation process may achieve higher accuracy and it can also simplify the retrieval process.
 draft: false
 featured: false
 tags:
@@ -48,9 +48,9 @@ Followed up and improved a recent research about encrypted image retri
 
 **Completed improvements:**
 
-* Because the original system’s tree generation process only merging nodes with high similarity, it may generate an unbalanced binary tree with large depth, and it will leads to low accuracy since the features of nodes with small depth in the tree will become fuzzy. By involving new threshold and check process, the system will get a chance to merge nodes with low similarity at the right time. Experiments show that the accuracy of the modified system is 8% higher than that of the original system on average, and modified system performs even better when more categories of pictures are used.
+* Because the original system’s tree generation process only merging nodes with high similarity, it may generate an unbalanced binary tree with large depth, and it will leads to low accuracy since the features of nodes with small depth in the tree will become fuzzy. By involving new threshold and check process, the system will get a chance to merge nodes with low similarity at the right time. Experiments show that the accuracy of the modified system is 8% higher than that of the original system on average, and when more categories of images are used, the accuracy gap between the modified system and the original system is more obvious. 
 * The original system’s retrieval process will only pick one node which has the smallest distance with user’s request at each level, so the original system doesn’t perform well when there are similar nodes at the same level. By involving more (Experiments shows that the maximum of 3 nodes perform the best) similar nodes into consideration, modified system could reach higher accuracy.
 
 **Further improvements:**
 
-* It is inevitable that the features of nodes will become more fuzzy during the tree generation process, and it will even getting worse if there are more categories of images involved, so that using tags during the tree generation process may achieve higher accuracy and it can also simplify the retrieval process.
+* It is inevitable that the features of nodes will become more fuzzy during the tree generation process, and it will get worse if there are more categories of images involved, so that using tags during the tree generation process may achieve higher accuracy and it can also simplify the retrieval process.
