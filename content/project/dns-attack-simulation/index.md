@@ -2,7 +2,7 @@
 title: DNS attack simulation
 date: 2021-03-08T08:12:00.000Z
 summary: >-2
-    **Feb. 2019 - Mar. 2019**
+    **Apr. 2019 - May. 2019**
 
   Simulated different methods of DNS attacks and evaluated some approaches that could mitigate these attacks.
 
@@ -30,7 +30,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-  **Feb. 2019 - Mar. 2019**
+  **Apr. 2019 - May. 2019**
 
 Simulated different methods of DNS attacks and evaluated some approaches that could mitigate these attacks.
 
