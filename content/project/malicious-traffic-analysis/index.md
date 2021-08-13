@@ -4,11 +4,11 @@ date: 2021-03-05T08:12:22.122Z
 summary: |-
   <!--StartFragment-->
 
-  **Apr. 2019 - May. 2019**
+  **Feb. 2019 - Mar. 2019**
 
   Analysed suspicious traffic of common attacks and found out their features.
 
-  **Suspicious Traffic Analysed:**
+  **Suspicious traffic analysed:**
 
   * Traffic of DNS amplification attack
   * Traffic of SYN flood attack
@@ -26,12 +26,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-  **Apr. 2019 - May. 2019**
+  **Feb. 2019 - Mar. 2019**
 
   Analysed suspicious traffic of common attacks and found out their features.
 
-  **Suspicious Traffic Analysed:**
+  **Suspicious traffic analysed:**
 
-  * Traffic of DNS amplification attack
-  * Traffic of SYN flood attack
-  * Traffic of slow Dos attack
+* Traffic of DNS amplification attack
+* Traffic of SYN flood attack
+* Traffic of slow Dos attack
