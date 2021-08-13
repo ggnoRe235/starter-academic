@@ -24,7 +24,6 @@ featured: false
 tags:
   - net
   - sec
-external_link: a
 image:
   filename: featured
   focal_point: Smart
