@@ -42,7 +42,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2017-01-01"
-  description: ""
+  description: "10/230"
   organization: Hunan University
   organization_url: 
   title: Third prize of programming competition
