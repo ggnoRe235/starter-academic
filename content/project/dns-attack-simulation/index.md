@@ -1,43 +1,51 @@
 ---
 title: DNS attack simulation
-date: 2021-03-05T08:29:58.860Z
-summary: >-
-  <!--StartFragment-->
+date: 2021-03-08T08:29:00.000Z
+summary: >-2
+  
+
+    **Feb. 2019 - Mar. 2019**
+
+  Simulated different methods of DNS attacks and evaluated some approaches that could mitigate these attacks.
+
+    **Attack analysed:**
+
+  * Local DNS server cache poison
+
+  * DNS hijack based on arp spoofing
 
 
-  **Feb. 2019 - Mar. 2019**
+  **Evaluated approaches:**
 
 
-  Simulated different methods of DNS attacks and evaluated approaches detecting these attacks.
+  * If local DNS server uses random UDP ports for DNS queries, attackers only have slightly chance ($ \frac{1}{2^{48}} $) to figure out the correct DNS query id and UDP port at the same time, and thus the possibility that the local DNS server will receive false responses from attackers is very small.
 
-
-  **Attack Analysed:**
-
-
-  * Local DNS cache poison
-
-  * DNS server cache poison
-
-  * DNS hijack based on arp spoofing 
-
-
-  <!--EndFragment-->
+  * Instead of using UDP to have DNS queries, DoT(DNS over TLS) and DoH(DNS over Https) can both encrypt DNS queries and the encrypted traffic is mixed with other normal traffic, which makes it difficult for attackers to figure out and analyse users' DNS queries.
 draft: false
 featured: false
 tags:
   - net
   - sec
+external_link: a
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+
+
+
+
   **Feb. 2019 - Mar. 2019**
 
-  Simulated different methods of DNS attacks and evaluated approaches detecting these attacks.
+Simulated different methods of DNS attacks and evaluated some approaches that could mitigate these attacks.
 
-  **Attack Analysed:**
+  **Attack analysed:**
 
-* Local DNS cache poison
-* DNS server cache poison
+* Local DNS server cache poison
 * DNS hijack based on arp spoofing
+
+**Evaluated approaches:**
+
+* If local DNS server uses random UDP ports for DNS queries, attackers only have slightly chance ($ \frac{1}{2^{48}} $) to figure out the correct DNS query id and UDP port at the same time, and thus the possibility that the local DNS server will receive false responses from attackers is very small.
+* Instead of using UDP to have DNS queries, DoT(DNS over TLS) and DoH(DNS over Https) can both encrypt DNS queries and the encrypted traffic is mixed with other normal traffic, which makes it difficult for attackers to figure out and analyse users' DNS queries.
