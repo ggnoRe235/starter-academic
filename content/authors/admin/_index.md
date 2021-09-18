@@ -17,6 +17,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%E4%B8%9A%E9%B9%8F-%E6%BD%98-655aa81b5
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/ggnoRe235
   - icon: cv
     icon_pack: ai
     link: uploads/Yepeng Pan - CV.pdf
