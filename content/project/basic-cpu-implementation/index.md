@@ -8,7 +8,7 @@ summary: >-2
 
     **Implemented function list:**
 
-  * 2-stage pipeline
+  * Two-stage pipeline
 
   * Implemented components (ALU, AGU, register, decoder, instruction cache, etc.)
 
@@ -23,6 +23,7 @@ draft: false
 featured: false
 tags:
   - embed
+external_link: a
 image:
   filename: featured
   focal_point: Smart
@@ -34,7 +35,7 @@ image:
 
   **Implemented function list:**
 
-* 2-stage pipeline
+* Two-stage pipeline
 * Implemented components (ALU, AGU, register, decoder, instruction cache, etc.)
 * Memory read & write (mov)
 * Basic arithmetic operations (add, sub, inc, cmp, imul )
