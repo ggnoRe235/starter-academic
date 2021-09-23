@@ -7,18 +7,18 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Research Experience
-    url: '#projects'
-    weight: 20
+  - name: Skill
+    url: '#skills'
+    weight: 50
   - name: Work Experience
     url: '#experience'
     weight: 30
   - name: Award
     url: '#accomplishments'
     weight: 40
-  - name: Skill
-    url: '#skills'
-    weight: 50
+  - name: Research Experience
+    url: '#projects'
+    weight: 20
   - name: Contact
     url: '#about'
     weight: 60
