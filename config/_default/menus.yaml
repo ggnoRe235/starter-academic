@@ -16,7 +16,7 @@ main:
   - name: Award
     url: '#accomplishments'
     weight: 40
-  - name: skill
+  - name: Skill
     url: '#skills'
     weight: 50
   - name: Contact
