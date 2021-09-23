@@ -11,9 +11,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:panyepeng@gmail.com
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/Meui19238075?s=09
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%E4%B8%9A%E9%B9%8F-%E6%BD%98-655aa81b5
