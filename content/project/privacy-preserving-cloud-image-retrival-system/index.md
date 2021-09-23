@@ -10,9 +10,9 @@ summary: >-2
 
     **Brief introduction of system:**
 
-  * This system aims to solve the problem that in a cloud image retrieval system, cloud server could analyse user's requests and damage user privacy.
+  * This system aims to solve the problem that in a cloud image retrieval system, the cloud server could analyse user's requests and damage user privacy.
 
-  * This system uses compressed binary CNN fully connected layer outputs to represent image features, and uses the distance among image features as the classification basis to generate a tree for retrieval. By encrypting the tree and user's requests with random matrix, cloud server can only use encrypted features to calculate distance between user's request and tree nodes during the retrieval process, and thus the system can preserve user privacy.
+  * This system uses compressed binary CNN fully connected layer outputs to represent image features, and uses the distance among image features as the classification basis to generate a tree for retrieval. By encrypting the tree and user's requests with random matrix, the cloud server can only use encrypted features to calculate distance between user's request and tree nodes during the retrieval process, and thus the system can preserve user privacy.
 
 
   **Completed improvements:**
@@ -45,8 +45,8 @@ Followed up and improved a recent research about encrypted image retri
 
   **Brief introduction of system:**
 
-* This system aims to solve the problem that in a cloud image retrieval system, cloud server could analyse user's requests and damage user privacy.
-* This system uses compressed binary CNN fully connected layer outputs to represent image features, and uses the distance among image features as the classification basis to generate a tree for retrieval. By encrypting the tree and user's requests with random matrix, cloud server can only use encrypted features to calculate distance between user's request and tree nodes during the retrieval process, and thus the system can preserve user privacy.
+* This system aims to solve the problem that in a cloud image retrieval system, the cloud server could analyse user's requests and damage user privacy.
+* This system uses compressed binary CNN fully connected layer outputs to represent image features, and uses the distance among image features as the classification basis to generate a tree for retrieval. By encrypting the tree and user's requests with random matrix, the cloud server can only use encrypted features to calculate distance between user's request and tree nodes during the retrieval process, and thus the system can preserve user privacy.
 
 **Completed improvements:**
 
