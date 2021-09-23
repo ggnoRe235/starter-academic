@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Skill
     url: '#skills'
-    weight: 50
+    weight: 20
   - name: Work Experience
     url: '#experience'
     weight: 30
@@ -18,7 +18,7 @@ main:
     weight: 40
   - name: Research Experience
     url: '#projects'
-    weight: 20
+    weight: 50
   - name: Contact
     url: '#about'
     weight: 60
