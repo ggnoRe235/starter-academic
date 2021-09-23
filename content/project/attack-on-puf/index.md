@@ -8,7 +8,7 @@ summary: >-
   **Apr. 2019 - Apr. 2019**
 
 
-  PUF(physical unclonable function) is a kind of security chip that could generate unclonable output by using process variation. This project used different machine learning models(LR, SVM, CMA-ES) to predict the output of PUF. Experiments showed that LR, SVM, CMA-ES can all predict PUF's output precisely.
+  PUF(physical unclonable function) is a kind of security chip that could generate unclonable output by using process variation. This project used different machine learning models(LR, SVM, CMA\-ES) to predict the output of PUF. Experiments showed that LR, SVM, CMA-ES can all predict PUF's output precisely.
 
 
   <!--EndFragment-->
@@ -25,4 +25,4 @@ image:
   preview_only: false
 ---
   **Apr. 2019 - Apr. 2019**
-  PUF(physical unclonable function) is a kind of security chip that could generate unclonable output by using process variation. This project used different machine learning models(LR, SVM, CMA-ES) to predict the output of PUF. Experiments showed that LR, SVM, CMA-ES can all predict PUF's output precisely.
+  PUF(physical unclonable function) is a kind of security chip that could generate unclonable output by using process variation. This project used different machine learning models(LR, SVM, CMA\-ES) to predict the output of PUF. Experiments showed that LR, SVM, CMA-ES can all predict PUF's output precisely.
